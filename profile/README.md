@@ -1,7 +1,5 @@
 # Welcome to Hikari Nova
 
-![Hikari Nova Logo](https://static.wixstatic.com/media/2ba019_ba289efb4a4247829a42edbfacd17105~mv2.png/v1/fill/w_488,h_488,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Original.png)
-
 **Hikari Nova**—where innovation meets clarity in online trading.
 
 ## About Hikari Nova
